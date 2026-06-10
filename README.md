@@ -6,7 +6,7 @@ This space is all about me, my journey, and the projects I’m working on.
 
 ## 👨‍💻 About Me
 - 🔹 Backend Developer in the making  
-- 🔹 Passionate about **Python**, **Django**, and **APIs**  
+- 🔹 Passionate about **C++**, **Python**, **Django**, and **APIs**  
 - 🔹 Interested in **Cloud**, **DevOps**, and **Scalable Systems**  
 - 🔹 Always learning & improving 🚀  
 
